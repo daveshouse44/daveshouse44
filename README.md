@@ -5,7 +5,9 @@
 ##
 ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveshouse44&theme=calm&show_icons=true)
 
-![Dave's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?daveshouse44={daveshouse44})
+![Dave's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daveshouse44&show_icons=true&locale=en&layout=compact)
+
+![Dave's GitHub streaks]("https://github-readme-streak-stats.herokuapp.com/?user=daveshouse44&")
 
 ## Comfortable working with 🖥️
 
