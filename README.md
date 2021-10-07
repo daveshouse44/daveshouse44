@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-##  Thank you for visiting my GitHub profile!
+###  Thank you for visiting my GitHub profile!
 
-## 📫 How to reach me: [daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
+### 📫 How to reach me: [daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
 
 <!--
 **daveshouse44/daveshouse44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
