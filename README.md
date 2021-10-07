@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hello there 👋
 
 ###  Thank you for visiting my GitHub profile!
 
 ##
 ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveshouse44&theme=calm&show_icons=true)
+
+![Dave's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?daveshouse44={daveshouse44})
 
 ## Comfortable working with 🖥️
 
