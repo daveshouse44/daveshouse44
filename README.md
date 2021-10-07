@@ -7,7 +7,7 @@
 
 ![Dave's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daveshouse44&show_icons=true&locale=en&layout=compact)
 
-![Dave's GitHub streaks]("https://github-readme-streak-stats.herokuapp.com/?user=daveshouse44&")
+![Dave's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=daveshouse44&)
 
 ## Comfortable working with 🖥️
 
@@ -28,6 +28,7 @@
 ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![image](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
