@@ -39,7 +39,7 @@
 
 ### 📫 How to reach me:
 
-[Email](mailto:daveshouse44@hotmail.com)
+[daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/david-tierney-65203021)
 
