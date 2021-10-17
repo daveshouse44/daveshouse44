@@ -41,7 +41,7 @@
 
 [daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/david-tierney-65203021)
+[LinkedIn](https://www.linkedin.com/in/david-tierney-652030214)
 
 <!--
 **daveshouse44/daveshouse44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
