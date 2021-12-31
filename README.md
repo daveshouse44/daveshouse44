@@ -51,9 +51,9 @@
 
 ### 📫 How to reach me:
 
-[daveshouse44@hotmail.com](mailto:daveshouse44@hotmail.com)
+[davidetierney44@gmail.com](mailto:davidetierney44@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/david-tierney-652030214)
+[![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-tierney-652030214)
 
 <!--
 **daveshouse44/daveshouse44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
