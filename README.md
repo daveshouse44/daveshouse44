@@ -9,6 +9,8 @@
 
 ![Dave's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=daveshouse44&)
 
+![](https://komarev.com/ghpvc/?username=daveshouse44&color=green&style=flat-square)
+
 ## Comfortable working with 🖥️
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,14 +46,13 @@
 ![image](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)
 ![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![image](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 
 
 ### 📫 How to reach me:
 
-[davidetierney44@gmail.com](mailto:davidetierney44@gmail.com)
+[![alt text](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidetierney44@gmail.com)
 
 [![alt text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-tierney-652030214)
 
