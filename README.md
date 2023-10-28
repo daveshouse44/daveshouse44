@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-###  Thank you for visiting my GitHub profile!
+###  Thank you for visiting!
 
 ##
 ![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveshouse44&theme=calm&show_icons=true)
