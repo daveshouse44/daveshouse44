@@ -1,15 +1,6 @@
-## Hello there 👋
+## Hey, thanks for visiting 👋
 
-###  Thank you for visiting!
-
-##
-![Dave's GitHub stats](https://github-readme-stats.vercel.app/api?username=daveshouse44&theme=calm&show_icons=true)
-
-![Dave's GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=daveshouse44&show_icons=true&locale=en&layout=compact)
-
-![Dave's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=daveshouse44&)
-
-![](https://komarev.com/ghpvc/?username=daveshouse44&color=green&style=flat-square)
+###  [Check out my website!](https://davetierney.dev)
 
 ## Experienced working with 🖥️
 ### Web Development
